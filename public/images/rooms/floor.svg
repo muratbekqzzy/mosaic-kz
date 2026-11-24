@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".08"/></linearGradient>
+<linearGradient id="f" y1="0" y2="1"><stop offset="0" stop-color="#D9CBB5"/><stop offset="1" stop-color="#8a7a66"/></linearGradient></defs>
+<rect width="1600" height="1000" fill="#E9E1D5"/>
+<polygon points="0,0 260,90 260,830 0,1000" fill="#000" opacity=".05"/>
+<polygon points="1600,0 1340,90 1340,830 1600,1000" fill="#000" opacity=".08"/>
+<polygon points="0,1000 260,830 1340,830 1600,1000" fill="url(#f)"/>
+<rect x="1100" y="560" width="220" height="300" fill="#5E4632" opacity=".9"/><rect x="1110" y="500" width="200" height="70" rx="30" fill="#D9CBB5"/>
+<rect x="260" y="90" width="1080" height="10" fill="#000" opacity=".05"/>
+<rect width="1600" height="1000" fill="url(#l)"/>
+<text x="1570" y="980" text-anchor="end" font-family="sans-serif" font-size="14" fill="#000" opacity=".35">PLACEHOLDER — replace with a real floor photo</text>
+</svg>
