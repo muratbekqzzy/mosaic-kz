@@ -1,0 +1,13 @@
+{
+  "sheets": {
+    "arabesque": "/images/sheets/arabesque.webp",
+    "classic": "/images/sheets/classic.webp",
+    "flex": "/images/sheets/flex.webp",
+    "flora": "/images/sheets/flora.webp",
+    "geometry": "/images/sheets/geometry.webp"
+  },
+  "split": {
+    "count": 72,
+    "ext": "webp"
+  }
+}

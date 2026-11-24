@@ -1,0 +1,17 @@
+"use client";
+
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { SplitText } from "gsap/SplitText";
+import { useGSAP } from "@gsap/react";
+
+if (typeof window !== "undefined") {
+  gsap.registerPlugin(ScrollTrigger, SplitText, useGSAP);
+  gsap.defaults({ ease: "power3.inOut" });
+  if (process.env.NODE_ENV === "development") Object.assign(window, { gsap, ScrollTrigger });
+}
+
+/** Run animations only when the user has not asked for reduced motion. */
+export const MOTION_OK = "(prefers-reduced-motion: no-preference)";
+
+export { gsap, ScrollTrigger, SplitText, useGSAP };

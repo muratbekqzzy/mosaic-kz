@@ -1,0 +1,317 @@
+{
+  "_note": "PLACEHOLDER prices and specs. Replace with your real catalogue. sheetsPerM2 = 1 / (sheet area in m²). Images: put files in /public/images/products/ and list them here.",
+  "products": [
+    {
+      "slug": "carrara-flora",
+      "collection": "flora",
+      "name": {
+        "ru": "Каррара Флора",
+        "kk": "Каррара Флора",
+        "en": "Carrara Flora"
+      },
+      "stone": {
+        "ru": "Мрамор Carrara, латунь",
+        "kk": "Carrara мәрмәрі, жез",
+        "en": "Carrara marble, brass"
+      },
+      "texture": "carrara",
+      "sizes": [
+        "30 × 30 см",
+        "толщина 10 мм"
+      ],
+      "pricePerSheet": 14500,
+      "pricePerM2": 161000,
+      "sheetsPerM2": 11.1,
+      "images": []
+    },
+    {
+      "slug": "sage-flora",
+      "collection": "flora",
+      "name": {
+        "ru": "Шалфей Флора",
+        "kk": "Жусан Флора",
+        "en": "Sage Flora"
+      },
+      "stone": {
+        "ru": "Зелёный мрамор, Carrara",
+        "kk": "Жасыл мәрмәр, Carrara",
+        "en": "Green marble, Carrara"
+      },
+      "texture": "sage",
+      "sizes": [
+        "30 × 30 см",
+        "толщина 10 мм"
+      ],
+      "pricePerSheet": 15900,
+      "pricePerM2": 176500,
+      "sheetsPerM2": 11.1,
+      "images": []
+    },
+    {
+      "slug": "nero-hex",
+      "collection": "geometry",
+      "name": {
+        "ru": "Неро Гексагон",
+        "kk": "Неро Гексагон",
+        "en": "Nero Hexagon"
+      },
+      "stone": {
+        "ru": "Мрамор Nero Marquina",
+        "kk": "Nero Marquina мәрмәрі",
+        "en": "Nero Marquina marble"
+      },
+      "texture": "nero",
+      "sizes": [
+        "29 × 30 см",
+        "толщина 8 мм"
+      ],
+      "pricePerSheet": 9800,
+      "pricePerM2": 112700,
+      "sheetsPerM2": 11.5,
+      "images": []
+    },
+    {
+      "slug": "travertine-hex",
+      "collection": "geometry",
+      "name": {
+        "ru": "Травертин Соты",
+        "kk": "Травертин Ұя",
+        "en": "Travertine Honeycomb"
+      },
+      "stone": {
+        "ru": "Травертин, шлифованный",
+        "kk": "Травертин, тегістелген",
+        "en": "Honed travertine"
+      },
+      "texture": "travertine",
+      "sizes": [
+        "29 × 30 см",
+        "толщина 8 мм"
+      ],
+      "pricePerSheet": 8900,
+      "pricePerM2": 102350,
+      "sheetsPerM2": 11.5,
+      "images": []
+    },
+    {
+      "slug": "carrara-classic",
+      "collection": "classic",
+      "name": {
+        "ru": "Каррара Классика",
+        "kk": "Каррара Классика",
+        "en": "Carrara Classic"
+      },
+      "stone": {
+        "ru": "Мрамор Carrara, полированный",
+        "kk": "Carrara мәрмәрі, жылтыратылған",
+        "en": "Polished Carrara marble"
+      },
+      "texture": "carrara",
+      "sizes": [
+        "30 × 30 см",
+        "чип 23 × 23 мм"
+      ],
+      "pricePerSheet": 6900,
+      "pricePerM2": 76600,
+      "sheetsPerM2": 11.1,
+      "images": []
+    },
+    {
+      "slug": "onyx-classic",
+      "collection": "classic",
+      "name": {
+        "ru": "Оникс Мёд",
+        "kk": "Оникс Бал",
+        "en": "Honey Onyx"
+      },
+      "stone": {
+        "ru": "Медовый оникс",
+        "kk": "Бал түсті оникс",
+        "en": "Honey onyx"
+      },
+      "texture": "onyx",
+      "sizes": [
+        "30 × 30 см",
+        "чип 48 × 48 мм"
+      ],
+      "pricePerSheet": 18500,
+      "pricePerM2": 205400,
+      "sheetsPerM2": 11.1,
+      "images": []
+    },
+    {
+      "slug": "arabesque-bianco",
+      "collection": "arabesque",
+      "name": {
+        "ru": "Арабеска Бьянко",
+        "kk": "Арабеска Бьянко",
+        "en": "Arabesque Bianco"
+      },
+      "stone": {
+        "ru": "Мрамор Carrara",
+        "kk": "Carrara мәрмәрі",
+        "en": "Carrara marble"
+      },
+      "texture": "carrara",
+      "sizes": [
+        "28 × 30 см",
+        "толщина 10 мм"
+      ],
+      "pricePerSheet": 12400,
+      "pricePerM2": 147500,
+      "sheetsPerM2": 11.9,
+      "images": []
+    },
+    {
+      "slug": "arabesque-sage",
+      "collection": "arabesque",
+      "name": {
+        "ru": "Арабеска Шалфей",
+        "kk": "Арабеска Жусан",
+        "en": "Arabesque Sage"
+      },
+      "stone": {
+        "ru": "Зелёный мрамор",
+        "kk": "Жасыл мәрмәр",
+        "en": "Green marble"
+      },
+      "texture": "sage",
+      "sizes": [
+        "28 × 30 см",
+        "толщина 10 мм"
+      ],
+      "pricePerSheet": 13900,
+      "pricePerM2": 165400,
+      "sheetsPerM2": 11.9,
+      "images": []
+    },
+    {
+      "slug": "flex-travertine",
+      "collection": "flex",
+      "name": {
+        "ru": "Гибкий мрамор Травертин",
+        "kk": "Иілгіш мәрмәр Травертин",
+        "en": "Flexible Marble Travertine"
+      },
+      "stone": {
+        "ru": "Каменный шпон на сетке",
+        "kk": "Тордағы тас шпоны",
+        "en": "Stone veneer on mesh"
+      },
+      "texture": "travertine",
+      "sizes": [
+        "120 × 60 см",
+        "толщина 2 мм"
+      ],
+      "pricePerSheet": 19000,
+      "pricePerM2": 26400,
+      "sheetsPerM2": 1.39,
+      "images": []
+    },
+    {
+      "slug": "flex-onyx",
+      "collection": "flex",
+      "name": {
+        "ru": "Гибкий мрамор Оникс",
+        "kk": "Иілгіш мәрмәр Оникс",
+        "en": "Flexible Marble Onyx"
+      },
+      "stone": {
+        "ru": "Каменный шпон, светопропускающий",
+        "kk": "Жарық өткізетін тас шпоны",
+        "en": "Translucent stone veneer"
+      },
+      "texture": "onyx",
+      "sizes": [
+        "120 × 60 см",
+        "толщина 2 мм"
+      ],
+      "pricePerSheet": 34000,
+      "pricePerM2": 47200,
+      "sheetsPerM2": 1.39,
+      "images": []
+    }
+  ],
+  "collections": [
+    {
+      "id": "flora",
+      "pattern": "flora",
+      "tone": "#F3E5DF",
+      "ink": "#C2A05A",
+      "name": {
+        "ru": "Флора",
+        "kk": "Флора",
+        "en": "Flora"
+      },
+      "line": {
+        "ru": "Цветок из мрамора и латуни",
+        "kk": "Мәрмәр мен жезден гүл",
+        "en": "A flower of marble and brass"
+      }
+    },
+    {
+      "id": "geometry",
+      "pattern": "hex",
+      "tone": "#E5ECE2",
+      "ink": "#C2A05A",
+      "name": {
+        "ru": "Геометрия",
+        "kk": "Геометрия",
+        "en": "Geometry"
+      },
+      "line": {
+        "ru": "Соты, собранные без зазора",
+        "kk": "Саңылаусыз құрастырылған ұялар",
+        "en": "Honeycomb without a gap"
+      }
+    },
+    {
+      "id": "classic",
+      "pattern": "square",
+      "tone": "#F4EEE3",
+      "ink": "#C2A05A",
+      "name": {
+        "ru": "Классика",
+        "kk": "Классика",
+        "en": "Classic"
+      },
+      "line": {
+        "ru": "Квадрат, который не стареет",
+        "kk": "Ескірмейтін шаршы",
+        "en": "The square that never ages"
+      }
+    },
+    {
+      "id": "arabesque",
+      "pattern": "arabesque",
+      "tone": "#EFE5D3",
+      "ink": "#C2A05A",
+      "name": {
+        "ru": "Арабеска",
+        "kk": "Арабеска",
+        "en": "Arabesque"
+      },
+      "line": {
+        "ru": "Восточная линия в камне",
+        "kk": "Тастағы шығыс сызығы",
+        "en": "An eastern line in stone"
+      }
+    },
+    {
+      "id": "flex",
+      "pattern": "flex",
+      "tone": "#F2E3D6",
+      "ink": "#C2A05A",
+      "name": {
+        "ru": "Гибкий мрамор",
+        "kk": "Иілгіш мәрмәр",
+        "en": "Flexible marble"
+      },
+      "line": {
+        "ru": "Камень, который огибает колонну",
+        "kk": "Бағанды орайтын тас",
+        "en": "Stone that wraps a column"
+      }
+    }
+  ]
+}

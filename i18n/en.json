@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "title": "MOSAIC.KZ — natural stone mosaic, laid by hand in Almaty",
+    "description": "Marble, onyx and travertine mosaic in the patterns of the steppe. Laid by hand in Almaty, delivered across Kazakhstan. Order on WhatsApp."
+  },
+  "nav": {
+    "piece": "The piece",
+    "interiors": "Stones",
+    "delivery": "Delivery",
+    "order": "Order",
+    "contacts": "Contact",
+    "menu": "Menu",
+    "collections": "Collections",
+    "calculator": "Estimate"
+  },
+  "hero": {
+    "kicker": "Natural stone mosaic · Almaty",
+    "line1": "Stone,",
+    "line2": "assembled by hand",
+    "scroll": "Scroll",
+    "end": "Every piece in its place"
+  },
+  "material": {
+    "kicker": "01 — Material",
+    "title": "Natural stone only",
+    "panels": [
+      {
+        "name": "Marble",
+        "note": "Carrara, Italy. Cool white, grey veins."
+      },
+      {
+        "name": "Onyx",
+        "note": "It lets light through. Warm, like honey in the sun."
+      },
+      {
+        "name": "Travertine",
+        "note": "Porous, matte, calm. The stone of bathhouses."
+      }
+    ],
+    "copy": "No two sheets of stone are alike. We match them by hand so the wall reads as one whole."
+  },
+  "split": {
+    "kicker": "02 — The cut",
+    "title": "From block to piece",
+    "copy": "The block is cut into slabs, the slabs into 8–10 mm chips. Each chip is honed and set on mesh by hand."
+  },
+  "collections": {
+    "kicker": "03 — Collections",
+    "title": "Five ways to build a wall",
+    "open": "View collection",
+    "items": "items",
+    "close": "Close",
+    "perSheet": "per sheet",
+    "perM2": "per m²",
+    "details": "Details",
+    "order": "Order",
+    "drag": "Scroll sideways"
+  },
+  "wall": {
+    "kicker": "04 — The wall builds itself",
+    "title": "Row by row",
+    "copy": "Grout lines first. Then stone. This is what an installation you're proud to show looks like.",
+    "styles": {
+      "bathroom": "Bathroom",
+      "kitchen": "Kitchen",
+      "floor": "Floor"
+    }
+  },
+  "calc": {
+    "kicker": "05 — Estimate",
+    "title": "How much stone do you need?",
+    "surface": "Surface",
+    "wall": "Wall",
+    "floor": "Floor",
+    "area": "Area, m²",
+    "product": "Mosaic",
+    "city": "Delivery city",
+    "sheets": "Sheets",
+    "reserve": "including 10% for cutting",
+    "price": "Estimate",
+    "note": "We'll send the exact total with delivery on WhatsApp within an hour.",
+    "cta": "Order on WhatsApp",
+    "waMessage": "Hello! I'd like to order mosaic.\nProduct: {product}\nSurface: {surface}, {area} m²\nSheets (incl. 10%): {sheets}\nEstimate: {price}\nCity: {city}"
+  },
+  "delivery": {
+    "kicker": "06 — Delivery",
+    "title": "Across Kazakhstan",
+    "terms": [
+      {
+        "k": "Almaty",
+        "v": "1–2 days, careful door-to-door delivery"
+      },
+      {
+        "k": "Kazakhstan",
+        "v": "3–7 days by freight carrier"
+      },
+      {
+        "k": "Packing",
+        "v": "Rigid crate, photos before dispatch"
+      },
+      {
+        "k": "Pick-up",
+        "v": "From our Almaty showroom"
+      }
+    ],
+    "from": "From Almaty"
+  },
+  "cities": {
+    "almaty": "Almaty",
+    "astana": "Astana",
+    "shymkent": "Shymkent",
+    "karaganda": "Karaganda",
+    "aktobe": "Aktobe",
+    "atyrau": "Atyrau",
+    "aktau": "Aktau",
+    "oskemen": "Oskemen",
+    "pavlodar": "Pavlodar",
+    "kostanay": "Kostanay",
+    "taraz": "Taraz",
+    "kyzylorda": "Kyzylorda",
+    "uralsk": "Oral",
+    "petropavl": "Petropavl",
+    "semey": "Semey",
+    "turkestan": "Turkistan"
+  },
+  "order": {
+    "kicker": "07 — How to order",
+    "title": "Three steps",
+    "steps": [
+      {
+        "t": "Choose",
+        "d": "A collection and a stone. Not sure? Send us a photo of the room."
+      },
+      {
+        "t": "Calculate",
+        "d": "Your area in the estimator. We add 10% for cutting."
+      },
+      {
+        "t": "Message",
+        "d": "Us on WhatsApp. We reply within an hour with an invoice."
+      }
+    ],
+    "samplesTitle": "Touch the stone first",
+    "samplesText": "We'll put together a sample box and bring it to your studio or post it.",
+    "samplesCta": "Request samples",
+    "samplesMessage": "Hello! I'd like to get mosaic samples."
+  },
+  "interiors": {
+    "kicker": "08 — Interiors",
+    "title": "Walls already assembled",
+    "placeholder": "Project photo"
+  },
+  "finale": {
+    "title": "Let's set your wall",
+    "cta": "Message on WhatsApp",
+    "instagram": "Instagram",
+    "address": "Showroom",
+    "map": "Open in 2GIS",
+    "hours": "Mon–Sat, 10:00–19:00",
+    "rights": "Natural stone mosaic. Almaty, Kazakhstan."
+  },
+  "product": {
+    "back": "All collections",
+    "stone": "Stone",
+    "sizes": "Sheet size",
+    "perSheet": "Price per sheet",
+    "perM2": "Price per m²",
+    "sheetsPerM2": "Sheets per m²",
+    "collection": "Collection",
+    "order": "Order on WhatsApp",
+    "calc": "Calculate quantity",
+    "zoom": "Hover to look closer at the stone",
+    "waMessage": "Hello! I'm interested in {product}. Is it in stock, and how soon can you deliver?"
+  },
+  "wa": {
+    "fab": "Message on WhatsApp",
+    "hello": "Hello! I'd like to know more about your mosaic."
+  },
+  "spiral": {
+    "kicker": "The first piece",
+    "title1": "Every piece,",
+    "title2": "in its place",
+    "copy": "Marble, onyx and travertine — cut by hand and set, piece by piece, into the patterns of the steppe.",
+    "count": "pieces in one flower"
+  },
+  "stones": {
+    "kicker": "The stones",
+    "title": "Five stones, one flower",
+    "items": [
+      {
+        "name": "Carrara",
+        "origin": "Italy",
+        "note": "Cool white with soft grey veins. The classic."
+      },
+      {
+        "name": "Honey Onyx",
+        "origin": "Iran",
+        "note": "It lets the light through — warm as honey in the sun."
+      },
+      {
+        "name": "Travertine",
+        "origin": "Türkiye",
+        "note": "Matte, layered and calm. The stone of bathhouses."
+      },
+      {
+        "name": "Verde",
+        "origin": "India",
+        "note": "Sage green with pale veins, like spring in the steppe."
+      },
+      {
+        "name": "Nero Marquina",
+        "origin": "Spain",
+        "note": "Deep black, crisp white veins. For drama."
+      }
+    ]
+  },
+  "intro": {
+    "kicker": "MOSAIC.KZ — Almaty",
+    "line1": "From a single line,",
+    "line2": "a flower of stone",
+    "sub": "Natural stone mosaic, painted in pattern and laid by hand.",
+    "scroll": "Scroll"
+  }
+}
